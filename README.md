@@ -4,9 +4,9 @@
 
 <br/>
 
-**julharie m. maddin**
+**Julharie M. Maddin**
 <br/>
-JRMSU Siocon Campus · Zamboanga del Norte, PH
+Computer Science student at JRMSU Siocon Campus · Zamboanga del Norte, PH
 
 <br/>
 
@@ -19,13 +19,13 @@ JRMSU Siocon Campus · Zamboanga del Norte, PH
 
 ## About
 
-I'm a backend-focused developer who started coding before university and ships real, deployed projects alongside coursework — not just exercises. I design and own the backend architecture myself; AI assistance gets used mainly for frontend/UI polish.
+I'm a backend-focused developer who started coding before university and ships real, deployed projects alongside coursework not just exercises. I design and own the backend architecture myself; AI assistance gets used mainly for frontend/UI polish.
 
 | | |
 |---|---|
 | **School** | Jose Rizal Memorial State University — Siocon Campus |
 | **Focus** | Backend architecture · Java / Spring Boot |
-| **Started** | Grade 10, self-taught |
+| **Started** | June 22 , 2019, Self-taught |
 | **Currently building** | `np-shop` — a full-stack e-commerce platform |
 | **Expected graduation** | April 2030 |
 
@@ -75,8 +75,7 @@ JWT auth · Redis-backed cart · rate limiting · PayPal checkout · Cloudinary 
 ### Library Management System
 ![Status](https://img.shields.io/badge/-FULLSTACK-181717?style=flat-square)
 
-Spring Boot + React LMS with Bluetooth barcode scanning and ISBN lookup.
-JWT auth · PostgreSQL · Google Books API · Messenger notification link.
+Spring Boot + React LMS with · JWT auth · PostgreSQL
 
 [![Live Demo](https://img.shields.io/badge/live%20demo-view%20app-2EA44F?style=flat-square&logo=vercel)](https://library-management-system-kappa-black.vercel.app)
 
@@ -90,7 +89,7 @@ Dark mode · contact form validation · CAPTCHA fallback.
 
 [![Live Demo](https://img.shields.io/badge/live%20demo-view%20site-2EA44F?style=flat-square&logo=vercel)](https://balloon-decor-zamboanga-frontend.vercel.app)
 
-> The LMS and Balloon Decor frontends are deployed but kept in private repos — the badges above link straight to the live apps.
+> The LMS and Balloon Decor frontends are deployed but kept in private repos the badges above link straight to the live apps.
 
 <br/>
 
