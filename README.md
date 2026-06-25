@@ -98,15 +98,12 @@ Dark mode · contact form validation · CAPTCHA fallback.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=julhariemaddin&show_icons=true&theme=dark&hide_border=true&bg_color=00000000#gh-dark-mode-only" height="165" />
-<img src="https://github-readme-stats.vercel.app/api?username=julhariemaddin&show_icons=true&theme=default&hide_border=true&bg_color=ffffff#gh-light-mode-only" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=julhariemaddin&theme=dark&hide_border=true&background=00000000#gh-dark-mode-only" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=julhariemaddin&theme=default&hide_border=true&background=ffffff#gh-light-mode-only" height="165" />
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julhariemaddin&layout=compact&theme=dark&hide_border=true&bg_color=00000000#gh-dark-mode-only" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julhariemaddin&layout=compact&theme=default&hide_border=true&bg_color=ffffff#gh-light-mode-only" />
 
 </div>
 
