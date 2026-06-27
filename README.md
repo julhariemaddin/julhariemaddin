@@ -24,10 +24,12 @@ I'm a backend-focused developer who started coding before university and ships r
 | | |
 |---|---|
 | **School** | Jose Rizal Memorial State University — Siocon Campus |
-| **Focus** | Backend architecture · Java / Spring Boot |
-| **Started** | June 22 , 2019, Self-taught |
-| **Currently building** | `np-shop` — a full-stack e-commerce platform |
+| **Started** | August 2025
 | **Expected graduation** | April 2030 |
+| **Certificate Achieves** | `6` including NCII in CSS |
+| **Started in Tech** | Since 2019, Self-taught |
+| **Focus** | Backend architecture · Java / Spring Boot |
+| **Projects Built** | `7` including the client request project|
 
 <br/>
 
