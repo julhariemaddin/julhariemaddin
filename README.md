@@ -78,7 +78,7 @@ JWT auth · Redis-backed cart · rate limiting · PayPal checkout · Cloudinary 
 ---
 
 ### Library Management System
-![Status](https://img.shields.io/badge/-FULLSTACK-181717?style=flat-square)
+![Status](https://img.shields.io/badge/-FULLSTACK-181717?style=flat-square) ![Status](https://img.shields.io/badge/-DISCONTINUED-181717?style=flat-square)
 
 Spring Boot + React LMS with · JWT auth · PostgreSQL
 
