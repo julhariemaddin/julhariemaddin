@@ -75,6 +75,8 @@ JWT auth · Redis-backed cart · rate limiting · PayPal checkout · Cloudinary 
 [![Backend](https://img.shields.io/badge/backend-np--shop--api-181717?style=flat-square&logo=github)](https://github.com/julhariemaddin/np-shop-api)
 [![Frontend](https://img.shields.io/badge/frontend-np--shop--web-181717?style=flat-square&logo=github)](https://github.com/julhariemaddin/np-shop-web)
 
+[![Live Demo](https://img.shields.io/badge/live%20demo-view%20app-2EA44F?style=flat-square&logo=vercel)](https://np-shop-web.vercel.app)
+
 ---
 
 ### Library Management System
