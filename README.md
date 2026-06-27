@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=BSCS+student;backend-leaning+developer;building+%E2%80%94+a+real+backend+frontend+platform;self-taught+since+2019" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=computer+science+student;backend+leaning+developer;building+an+optimize+backend,+frontend+platform;self-taught+since+2019" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,7 @@ Computer Science student at JRMSU Siocon Campus · Zamboanga del Norte, PH
 
 ## About
 
-I'm a backend-focused developer who started coding before university and ships real, deployed projects alongside coursework not just exercises. I design and own the backend architecture myself; AI assistance gets used mainly for frontend/UI polish.
+I'm a backend focused developer who started coding before university and ships real, deployed and optimize projects alongside coursework not just exercises. I design and own the backend architecture myself; AI assistance gets used mainly for frontend/UI polish. I use AI as a tool not depending on it. I love reading `documentation` .
 
 | | |
 |---|---|
@@ -40,7 +40,10 @@ I'm a backend-focused developer who started coding before university and ships r
 **Backend**
 <br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Ai-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
@@ -66,7 +69,7 @@ I'm a backend-focused developer who started coding before university and ships r
 ### np-shop
 ![Status](https://img.shields.io/badge/-FULLSTACK-181717?style=flat-square)
 
-Full-stack e-commerce platform — Spring Boot API + React frontend.
+Full-stack e-commerce platform · Spring Boot API + React frontend.
 JWT auth · Redis-backed cart · rate limiting · PayPal checkout · Cloudinary media.
 
 [![Backend](https://img.shields.io/badge/backend-np--shop--api-181717?style=flat-square&logo=github)](https://github.com/julhariemaddin/np-shop-api)
@@ -86,7 +89,7 @@ Spring Boot + React LMS with · JWT auth · PostgreSQL
 ### Balloon Decor Zamboanga
 ![Status](https://img.shields.io/badge/-CLIENT%20WORK-181717?style=flat-square)
 
-React/Vite site built for a real client — first paid project.
+React/Vite site built for a real client, first paid project.
 Dark mode · contact form validation · CAPTCHA fallback.
 
 [![Live Demo](https://img.shields.io/badge/live%20demo-view%20site-2EA44F?style=flat-square&logo=vercel)](https://balloon-decor-zamboanga-frontend.vercel.app)
